@@ -1,0 +1,11 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Operation = Remove
+Type = Path
+Target = *
+
+[Action]
+Description = Dumps the list of currently installed packages 
+When = PostTransaction
+Exec = /root/arch-install/bin/dump-packages
