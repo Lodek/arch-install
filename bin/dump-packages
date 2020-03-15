@@ -5,7 +5,7 @@ ARCH_INSTALL="/root/arch-install"
 cd $ARCH_INSTALL
 
 
-if [ ! -d "$HOST" ] 
+if [ ! -d "$HOST" ]; then
 	mkdir "$HOST"
 fi
 
