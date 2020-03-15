@@ -1,0 +1,16 @@
+#!/usr/bin/sh
+HOST=$(cat /etc/hostname)
+ARCH_INSTALL="/root/arch-install"
+
+cd $ARCH_INSTALL
+
+
+if [ ! -d "$HOST" ] 
+	mkdir "$HOST"
+fi
+
+git pull
+pacman -Qqe > "$DUMP_DIR/packages.txt"
+git add .
+git commit -m "package changes for $HOST at $(date)"
+git push
