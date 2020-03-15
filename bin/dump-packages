@@ -10,7 +10,7 @@ if [ ! -d "$HOST" ]; then
 fi
 
 git pull
-pacman -Qqe > "$DUMP_DIR/packages.txt"
+pacman -Qqe > "$HOST/packages.txt"
 git add .
 git commit -m "package changes for $HOST at $(date)"
 git push
