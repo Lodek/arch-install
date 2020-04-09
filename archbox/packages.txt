@@ -53,6 +53,7 @@ pycharm-community-edition
 python
 python-pip
 qutebrowser
+ranger
 redshift
 rxvt-unicode
 sl
