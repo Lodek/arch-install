@@ -40,6 +40,7 @@ man-pages
 maven
 minecraft-launcher
 nginx
+nmap
 nodejs
 npm
 os-prober
