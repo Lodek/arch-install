@@ -89,6 +89,7 @@ nano
 ncdu
 neofetch
 netctl
+nginx
 nmap
 ntfs-3g
 openjdk8-doc
