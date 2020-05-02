@@ -43,6 +43,7 @@ nginx
 nmap
 nodejs
 npm
+obs-studio
 os-prober
 p7zip
 patch
