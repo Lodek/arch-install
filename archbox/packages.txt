@@ -51,6 +51,7 @@ patch
 pavucontrol
 pianobar
 pkgconf
+postgresql
 pulseaudio
 pulseaudio-alsa
 pycharm-community-edition
