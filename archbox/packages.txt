@@ -70,6 +70,7 @@ texlive-core
 texlive-langextra
 tmux
 tree
+ttf-hanazono
 unzip
 vim
 vlc
