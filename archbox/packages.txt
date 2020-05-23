@@ -71,6 +71,7 @@ texlive-core
 texlive-langextra
 tmux
 tree
+ttf-dejavu
 ttf-hanazono
 unzip
 vim
