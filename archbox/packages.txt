@@ -19,6 +19,7 @@ flameshot
 flex
 gconf
 ghc
+gimp
 git
 grub
 gtk2
