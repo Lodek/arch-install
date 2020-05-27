@@ -68,6 +68,7 @@ sxiv
 texinfo
 texlive-bibtexextra
 texlive-core
+texlive-fontsextra
 texlive-langextra
 tmux
 tree
