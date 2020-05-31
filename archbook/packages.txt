@@ -135,6 +135,7 @@ tar
 texinfo
 texlive-bibtexextra
 texlive-core
+texlive-fontsextra
 texlive-latexextra
 texlive-publishers
 thunar
