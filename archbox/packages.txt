@@ -71,6 +71,7 @@ texlive-core
 texlive-fontsextra
 texlive-langextra
 tmux
+transmission-qt
 tree
 ttf-dejavu
 ttf-font-awesome
