@@ -76,6 +76,7 @@ tree
 ttf-dejavu
 ttf-font-awesome
 ttf-hanazono
+ttf-jetbrains-mono
 unzip
 vim
 vlc
