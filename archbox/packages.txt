@@ -21,6 +21,7 @@ gconf
 ghc
 gimp
 git
+gnome-color-manager
 grub
 gtk2
 htop
