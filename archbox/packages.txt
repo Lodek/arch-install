@@ -6,7 +6,6 @@ base
 biber
 bison
 chromium
-colorhug-client
 dhcpcd
 discord
 dmenu
