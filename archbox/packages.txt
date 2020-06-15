@@ -41,6 +41,7 @@ man-pages
 maven
 minecraft-launcher
 mpv
+net-tools
 nginx
 nmap
 nodejs
