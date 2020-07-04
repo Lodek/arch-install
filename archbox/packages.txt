@@ -86,6 +86,7 @@ xf86-video-ati
 xorg-server
 xorg-xinit
 xorg-xrandr
+xsel
 zathura
 zathura-djvu
 zathura-pdf-mupdf
