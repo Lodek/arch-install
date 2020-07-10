@@ -59,6 +59,7 @@ pulseaudio-alsa
 pycharm-community-edition
 python
 python-pip
+python2
 qutebrowser
 ranger
 redshift
