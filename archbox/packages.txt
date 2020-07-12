@@ -65,6 +65,7 @@ python2-pip
 qutebrowser
 ranger
 redshift
+ripgrep
 rxvt-unicode
 sl
 sudo
