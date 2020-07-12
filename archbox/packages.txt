@@ -17,6 +17,7 @@ emacs
 fakeroot
 flameshot
 flex
+fzf
 gconf
 ghc
 gimp
