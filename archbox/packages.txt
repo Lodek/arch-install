@@ -47,6 +47,7 @@ nginx
 nmap
 nodejs
 npm
+ntfs-3g
 obs-studio
 os-prober
 p7zip
