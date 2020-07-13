@@ -84,6 +84,7 @@ ttf-hanazono
 ttf-jetbrains-mono
 unzip
 vim
+virtualbox
 vlc
 xf86-video-amdgpu
 xf86-video-ati
