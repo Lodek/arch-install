@@ -75,6 +75,7 @@ libreoffice-still
 licenses
 linux
 logrotate
+lsd
 lvm2
 make
 man-db
