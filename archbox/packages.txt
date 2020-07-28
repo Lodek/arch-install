@@ -6,6 +6,7 @@ base
 biber
 bison
 chromium
+ctags
 dhcpcd
 discord
 dmenu
