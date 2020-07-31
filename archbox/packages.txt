@@ -15,6 +15,7 @@ docker-compose
 dunst
 efibootmgr
 emacs
+evince
 fakeroot
 flameshot
 flex
