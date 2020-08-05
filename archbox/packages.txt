@@ -5,6 +5,7 @@ automake
 base
 biber
 bison
+cabal-install
 chromium
 ctags
 dhcpcd
