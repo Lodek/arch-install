@@ -80,6 +80,7 @@ texlive-bibtexextra
 texlive-core
 texlive-fontsextra
 texlive-langextra
+texlive-science
 tmux
 transmission-qt
 tree
