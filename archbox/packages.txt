@@ -27,6 +27,7 @@ gimp
 git
 grub
 gtk2
+haskell-hunit
 htop
 i3-wm
 i3status
