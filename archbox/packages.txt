@@ -30,6 +30,7 @@ gtk2
 htop
 i3-wm
 i3status
+imagemagick
 intellij-idea-community-edition
 jdk8-openjdk
 libreoffice-fresh
