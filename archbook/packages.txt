@@ -148,6 +148,7 @@ transmission-cli
 transmission-qt
 tree
 ttf-dejavu
+ttf-jetbrains-mono
 tumbler
 unrar
 unzip
