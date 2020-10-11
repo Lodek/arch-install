@@ -122,6 +122,7 @@ qutebrowser
 ranger
 redshift
 reiserfsprogs
+ripgrep
 rsync
 rxvt-unicode
 s-nail
