@@ -1,6 +1,7 @@
 alsa-firmware
 alsa-plugins
 alsa-utils
+ansible
 arch-install-scripts
 arduino-avr-core
 aspell-en
